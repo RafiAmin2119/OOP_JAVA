@@ -23,7 +23,7 @@ class Person {
 public class SeniorTT {
     public static void main(String[] args) {
         Person p1 = new Person("Rafi", 20);
-        Person p2 = new Person("Sami", 22, "01712345678");
+        Person p2 = new Person("Sami", 15, "01712345678");
         p1.show();
         p2.show();
     }
