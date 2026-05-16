@@ -11,7 +11,7 @@ public static int withdraw(int a,int b){
 
 
     public static void main(String[] args) {
-        int b1=50000;
+        int b1=40000;
         int b2=10000;
         b1=deposit(b1,5000);
         b2=withdraw(b2,8000);
